@@ -15,7 +15,7 @@ Self-RAG improves the traditional Retrieval-Augmented Generation (RAG) process b
 
 * Unlike standard retrieval models, which fetch a fixed number of documents, Self-RAG allows the model to determine when and what information to retrieve based on the complexity of the question.
 * This helps the model avoid unnecessary information overload and focus only on relevant data.
-* 
+  
 **2.  Response Generation:**
 
 * After retrieving information, the LLM integrates it into a coherent and accurate response.
