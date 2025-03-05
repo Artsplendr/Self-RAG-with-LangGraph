@@ -32,4 +32,4 @@ Self-RAG improves the traditional Retrieval-Augmented Generation (RAG) process b
 2. ["Self-Reflective RAG with LangGraph"](https://blog.langchain.dev/agentic-rag-with-langgraph/) blog is available at LangChain.
 
 
-If you find this repository useful, light the star ⭐:)! 
+If you find this repository useful, drop it the star ⭐:)! 
