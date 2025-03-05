@@ -1,7 +1,7 @@
 # Self-RAG With LangGraph
 
 ## Project Goal
-The goal of this project is to experiment with Self-RAG with LangGraph.  This project is based on ["Self-Reflective RAG with LangGraph"](https://blog.langchain.dev/agentic-rag-with-langgraph/) blog by LangChain Team.
+The goal of this project is to experiment with Self-RAG,by using LangGraph.  This project is based on ["Self-Reflective RAG with LangGraph"](https://blog.langchain.dev/agentic-rag-with-langgraph/) blog by LangChain Team.
 
 ## Self-RAG Introduction
 
